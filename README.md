@@ -1,7 +1,7 @@
 # Gold-price-forecasting-using-Time-series-analysis-python
-Historical data of closing price of gold XAU/USD then Timeseries forecasting using python
+Historical data of closing price of gold XAU/USD then Timeseries forecasting using python 
 
-Yahoo finance link to scrap historical golbal gold closing XUA/USD  price over the 25 years, 
+Yahoo finance link to scrap historical global gold closing XUA/USD  price over the 25 years , 
 That historical dataset to train a model ,
 Using Multifil Regression algorithmns,
 Trained models store in the pickle file,
