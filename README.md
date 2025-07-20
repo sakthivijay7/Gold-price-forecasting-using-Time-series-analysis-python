@@ -14,6 +14,9 @@ Train a model with multiple Regression alogrithmns for comparision.
 - Model save:
 Trained models store in the pickle file.
 
+Result:
+Model got 99% R^ Score.
+
 - Forecasting:
 DATETIME to features extraction than trainded model to perform time series forecasting.
 ![Gold_forecast](https://github.com/user-attachments/assets/446300fa-a548-4c09-ba09-067bafe595e2)
