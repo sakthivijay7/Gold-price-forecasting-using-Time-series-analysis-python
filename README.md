@@ -15,7 +15,7 @@ Train a model with multiple Regression alogrithmns for comparision.
 Trained models store in the pickle file.
 
 - **Result:**
-Model got 99% R^ Score.
+Model got `99% R^2 Score`.
 
 - **Forecasting:**
 DATETIME to features extraction than trainded model to perform time series forecasting.
